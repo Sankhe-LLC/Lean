@@ -362,6 +362,7 @@
     <Compile Include="Algorithm\Framework\Selection\QC500UniverseSelectionModelTests.cs" />
     <Compile Include="API\NodeTests.cs" />
     <Compile Include="Brokerages\Bitfinex\BitfinexBrokerageAdditionalTests.cs" />
+    <Compile Include="Brokerages\Binance\BinanceBrokerageTests.cs" />
     <Compile Include="Brokerages\Binance\BinanceFeeModelTests.cs" />
     <Compile Include="Brokerages\Bitfinex\BitfinexFeeModelTests.cs" />
     <Compile Include="Brokerages\Bitfinex\BitfinexSymbolMapperTests.cs" />
